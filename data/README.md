@@ -7,7 +7,11 @@ The notebook can be run locally or on google colab.
 - To run it on colab, please follow the instructions in the notebook itself.
 
 ### Other files/directories 
-- `final_submission` : file with the final forecasts and submitted on Kaggle;
+- `artifacts`: 
+  - presentation (ppt and pdf)
+  - report (pdf and latex zip)
+  - notebook (pdf)
+- `final_submission` : final forecasts submitted on Kaggle;
 - `models`: per-store models;
 - `partial_submissions`: per-store forecasts;
 - `m5-forecasting-accuracy.zip`: original files of the competition from Kaggle.
