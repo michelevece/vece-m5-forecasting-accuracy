@@ -19,6 +19,11 @@ Recursive approach is used, namely forecasts from past weeks are fed as input an
 ## Results
 
 The solution achieved `0.57415` as private score (which corresponds to the 46th position in the private leaderboard).
+
+## Main references
+- "The M5 Competition - Competitors' Guide", available at https://mofc.unic.ac.cy/wp-content/uploads/2020/03/M5-Competitors-Guide-Final-10-March-2020.docx
+- S. Makridakis, E. Spiliotis and V. Assimakopoulos, "M5 accuracy competition: Results, findings, and conclusions". International
+Journal of Forecasting (2022), available at https://doi.org/10.1016/j.ijforecast.2021.11.013
   
 
 
