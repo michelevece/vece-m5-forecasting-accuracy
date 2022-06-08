@@ -18,7 +18,7 @@ The notebook can be run locally or on google colab.
 
 At runtime, two additional directories will be created:
 - `extracted`: dataframes after zip extraction, in `csv` format;
-- `preprocessed`: dataframes after preprocessing, in `parquet` format.
+- `processed`: dataframes after preprocessing, in `parquet` format.
 
  
 
