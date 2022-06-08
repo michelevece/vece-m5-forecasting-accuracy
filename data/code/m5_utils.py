@@ -185,7 +185,7 @@ def final_submission(src='../partial_submissions/', dst='../final_submission'):
     @return: final submission
     """
     # read all partial submissions
-    dfs = [pd.read_csv(src + f, index_col=False) for f in os.listdir(src)]
+    dfs = [pd.read_csv(src + f, index_col=False) for f in os.listdir(src) if f.endswith('.csv')]
     # concatenate them
     df = pd.concat(dfs)
     # write on disk
