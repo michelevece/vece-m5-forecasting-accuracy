@@ -225,6 +225,6 @@ def create_dashboard(evaluator, limit=5, rmsse_weights_subplot=False):
 
         if i == 1 or i >= 9 or not rmsse_weights_subplot:
             fig.suptitle(f'Level {i}: {evaluator.group_ids[i - 1]}', size=24,
-                         fontweight='bold')
+                         fontweight='bold', y=1.05)
         plt.tight_layout()
         plt.show()
