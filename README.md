@@ -3,7 +3,7 @@
 ## Description
 This repository has been created as part of **Project Work in Machine Learning** exam.
 
-It contains a solution to the **M5 Competition - Forecasting Accuracy** available on Kaggle.
+It contains a solution to the **M5 Competition - Forecasting Accuracy** available on Kaggle (https://www.kaggle.com/c/m5-forecasting-accuracy).
 
 
 ## Objective
